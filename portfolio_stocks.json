@@ -1,0 +1,37 @@
+[
+    {
+      "stock": "Janie",
+      "value": "$127.75",
+      "change": "497%"
+    },
+    {
+      "stock": "Byers",
+      "value": "$168.85",
+      "change": "233%"
+    },
+    {
+      "stock": "James",
+      "value": "$221.86",
+      "change": "427%"
+    },
+    {
+      "stock": "Mattie",
+      "value": "$216.18",
+      "change": "81%"
+    },
+    {
+      "stock": "Vincent",
+      "value": "$255.34",
+      "change": "144%"
+    },
+    {
+      "stock": "Quinn",
+      "value": "$215.84",
+      "change": "223%"
+    },
+    {
+      "stock": "Leslie",
+      "value": "$181.49",
+      "change": "430%"
+    }
+  ]
