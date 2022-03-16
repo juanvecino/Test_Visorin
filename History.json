@@ -1,0 +1,26 @@
+[
+  {
+    "user": "Johnnie",
+    "tipo": "user"
+  },
+  {
+    "user": "Dorthy",
+    "tipo": "organization"
+  },
+  {
+    "user": "Little",
+    "tipo": "organization"
+  },
+  {
+    "user": "Crystal",
+    "tipo": "stock"
+  },
+  {
+    "user": "Christina",
+    "tipo": "organization"
+  },
+  {
+    "user": "Latasha",
+    "tipo": "stock"
+  }
+]
